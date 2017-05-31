@@ -1,7 +1,7 @@
 package dev.paie.entite;
 
 public class Avantage {
-
+//test commentaire
 	private Integer id;
 	private String code;
 	private String nom;
